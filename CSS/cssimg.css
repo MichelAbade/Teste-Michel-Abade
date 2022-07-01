@@ -1,0 +1,423 @@
+/*--------INICIANDO CSS IMAGENS ------------ */
+
+#picture__input {
+  display: none;
+}
+
+.picture {
+  width: 200px;
+  aspect-ratio: 16/9;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.picture:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.picture:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.picture:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.picture__img {
+  max-width: 100%;
+}
+
+/*Final primeira imagem */
+
+#picture {
+  display: none;
+}
+
+.pictur {
+  width: 200px;
+  aspect-ratio: 16/9;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.pictur:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.pictur:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.pictur:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.picturei {
+  max-width: 100%;
+}
+
+/*Final segunda imagem */
+
+#picturee {
+  display: none;
+}
+
+.picturr {
+  width: 200px;
+  aspect-ratio: 16/9;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.picturr:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.picturr:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.picturr:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.pictureii {
+  max-width: 100%;
+}
+
+/*Final terceira imagem */
+
+#picturree {
+  display: none;
+}
+
+.pictuurr {
+  width: 200px;
+  aspect-ratio: 16/9;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.pictuurr:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.pictuurr:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.pictuurr:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.picturreii {
+  max-width: 100%;
+}
+
+/*Final quarta imagem */
+
+#pictuurree {
+  display: none;
+}
+
+.picttuurr {
+  width: 200px;
+  aspect-ratio: 16/9;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.picttuurr:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.picttuurr:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.picttuurr:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.pictuurreii {
+  max-width: 100%;
+}
+
+/*Final quinta imagem */
+
+#picttuurree {
+  display: none;
+}
+
+.piccttuurr {
+  width: 150px;
+  aspect-ratio:25/33;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.piccttuurr:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.piccttuurr:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.piccttuurr:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.picttuurreii {
+  max-width: 100%;
+}
+/*Final SEXTA imagem */
+#piccttuurree {
+  display: none;
+}
+
+.piiccttuurr {
+  width: 200px;
+  aspect-ratio: 16/7;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.piiccttuurr:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.piiccttuurr:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.piiccttuurr:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.piccttuurreii {
+  max-width: 100%;
+}
+/*Final SETIMA imagem */
+#piiccttuurree {
+  display: none;
+}
+
+.ppiiccttuurr {
+  width: 200px;
+  aspect-ratio: 16/7;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.ppiiccttuurr:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.ppiiccttuurr:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.ppiiccttuurr:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.piiccttuurreii {
+  max-width: 100%;
+}
+/*Final OITAVA imagem */
+#piiccttuurree9 {
+  display: none;
+}
+
+.ppiiccttuurr9 {
+  width: 200px;
+  aspect-ratio: 16/7;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.ppiiccttuurr9:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.ppiiccttuurr9:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.ppiiccttuurr9:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.piiccttuurreii9 {
+  max-width: 100%;
+}
+/*Final NONA imagem */
+#piiccttuurree10 {
+  display: none;
+}
+
+.ppiiccttuurr10 {
+  width: 200px;
+  aspect-ratio: 16/7;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  border: 2px dashed currentcolor;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: color 300ms ease-in-out, background 300ms ease-in-out;
+  outline: none;
+  overflow: hidden;
+}
+
+.ppiiccttuurr10:hover {
+  color: #777;
+  background: #ccc;
+}
+
+.ppiiccttuurr10:active {
+  border-color: turquoise;
+  color: turquoise;
+  background: #eee;
+}
+
+.ppiiccttuurr10:focus {
+  color: #777;
+  background: #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.piiccttuurreii10 {
+  max-width: 100%;
+}
+
+/*--------CSS IMAGENS FINALIZADO------------ */
